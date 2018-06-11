@@ -26,27 +26,47 @@
   },
   "work": [
     {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": "Integrotech",
+      "position": "Application Engineer",
+      "website": "http://integrotech.com.pl",
+      "startDate": "2011-12-19",
+      "endDate": "2014-03-07",
+      "summary": "Design of new gas measurement instrument",
       "highlights": [
-        ""
+        "Analyze the regulatory requirements (MID, ATEX, domestic industry regulation",
+        "Research",
+	"Cooperate in the development process of industrial automation equipment and measurement systems for gas industry in regulatory compliant way",
+        "Create and update of the products' documentation",
+        "Optimize internal production procedures",
+        "Induce new lab employees",
+        "Manage IT infrastructure (Linux, Novell Vibe, Novell GroupWise)",
+        "Provide general IT support"
       ]
     }
   ],
   "additionalWork": [
     {
-      "company": "",
-      "position": "",
-      "website": "",
+      "company": "Bureau for Chemical Substances",
+      "position": "Consultant",
+      "website": "http://eldiom.chemikalia.gov.pl/",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        ""
+        "Develop principles of the system",
+        "Prepare terms of reference for the tender"
+      ]
+    },
+    {
+      "company": "Bureau for Chemical Substances",
+      "position": "Consultant",
+      "website": "https://reach.gov.pl/",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Design and implement the web portal and ticketing system",
+        "Implement updates and new features on per-request basis"
       ]
     }
   ],
