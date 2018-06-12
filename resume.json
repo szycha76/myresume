@@ -1,30 +1,70 @@
 {
   "basics": {
-    "name": "",
+    "name": "Marcin Szychowski",
     "label": "",
     "picture": "",
-    "email": "",
-    "phone": "",
+    "email": "szycha@gmail.com",
+    "phone": "+48.791460067",
     "degree": "",
-    "website": "",
+    "website": "http://szychowski.pl/",
     "summary": "",
-    "highlights": null,
+    "highlights": [
+      "DevOps Integrator", "Systems+Database Administrator", "Programmer", "Coach"
+    ],
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
-      "countryCode": "",
+      "address": "[STREET ADDRESS]",
+      "postalCode": "[POSTAL CODE]",
+      "city": "Łódź",
+      "countryCode": "PL",
       "region": ""
     },
     "profiles": [
       {
-        "network": "",
-        "username": "",
-        "url": ""
+        "network": "GitHub",
+        "username": "szycha76",
+        "url": "https://github.com/szycha76"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "szycha",
+        "url": "https://linkedin.com/in/szycha"
       }
     ]
   },
   "work": [
+    {
+      "company": "GFT",
+      "position": "Support Lead",
+      "website": "https://www.gft.com/pl",
+      "startDate": "2015-12-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "company": "GFT",
+      "position": "Senior Support Consultant",
+      "website": "https://www.gft.com/pl",
+      "startDate": "2015-01-02",
+      "endDate": "2015-11-30",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "company": "Rule Financial",
+      "position": "Senior Support Consultant",
+      "website": "https://www.rulefinancial.com/",
+      "startDate": "2014-05-19",
+      "endDate": "2014-12-31",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    },
     {
       "company": "Integrotech",
       "position": "Application Engineer",
@@ -45,6 +85,31 @@
     }
   ],
   "additionalWork": [
+    {
+      "company": "ADASTOR Marcin Szychowski",
+      "position": "CEO",
+      "website": "http://adastor.pl/",
+      "startDate": "2014-03-07",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "This is my private owned company"
+      ]
+    },
+    {
+      "company": "KMStudio",
+      "position": "Coach",
+      "website": "http://kmstudio.com.pl/",
+      "startDate": "2007-11-16",
+      "endDate": "Present",
+      "summary": "I occassionally conduct IT-related trainings for this company, such as:",
+      "highlights": [
+	"IT Security in Linux OS", "Basics of Java Programming",
+	"MySQL/MariaDB DBMS Administration", "Microsoft Excel for Advanced Users",
+	"HTML for beginners",
+	"etc."
+      ]
+    },
     {
       "company": "Bureau for Chemical Substances",
       "position": "Consultant",
