@@ -44,6 +44,30 @@
       ]
     },
     {
+      "company": "ADASTOR Marcin Szychowski",
+      "position": "CEO",
+      "website": "http://adastor.pl/",
+      "startDate": "2014-03-07",
+      "endDate": "",
+      "summary": "This is my private owned company",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "KMStudio",
+      "position": "Coach",
+      "website": "http://kmstudio.com.pl/",
+      "startDate": "2007-11-16",
+      "endDate": "",
+      "summary": "I occassionally conduct IT-related trainings for this company, such as:",
+      "highlights": [
+	"IT Security in Linux OS", "Basics of Java Programming",
+	"MySQL/MariaDB DBMS Administration", "Microsoft Excel for Advanced Users",
+	"HTML for beginners",
+	"etc."
+      ]
+    },
+    {
       "company": "GFT",
       "position": "Senior Support Consultant",
       "website": "https://www.gft.com/pl",
@@ -70,7 +94,7 @@
       "position": "Application Engineer",
       "website": "http://integrotech.com.pl",
       "startDate": "2011-12-19",
-      "endDate": "2014-03-07",
+      "endDate": "2014-03-06",
       "summary": "Design of new gas measurement instrument",
       "highlights": [
         "Analyze the regulatory requirements (MID, ATEX, domestic industry regulation",
@@ -81,33 +105,6 @@
         "Induce new lab employees",
         "Manage IT infrastructure (Linux, Novell Vibe, Novell GroupWise)",
         "Provide general IT support"
-      ]
-    }
-  ],
-  "additionalWork": [
-    {
-      "company": "ADASTOR Marcin Szychowski",
-      "position": "CEO",
-      "website": "http://adastor.pl/",
-      "startDate": "2014-03-07",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "This is my private owned company"
-      ]
-    },
-    {
-      "company": "KMStudio",
-      "position": "Coach",
-      "website": "http://kmstudio.com.pl/",
-      "startDate": "2007-11-16",
-      "endDate": "Present",
-      "summary": "I occassionally conduct IT-related trainings for this company, such as:",
-      "highlights": [
-	"IT Security in Linux OS", "Basics of Java Programming",
-	"MySQL/MariaDB DBMS Administration", "Microsoft Excel for Advanced Users",
-	"HTML for beginners",
-	"etc."
       ]
     },
     {
@@ -133,7 +130,23 @@
         "Design and implement the web portal and ticketing system",
         "Implement updates and new features on per-request basis"
       ]
+    },
+    {
+      "company": "District Examination Commision in Łódź",
+      "position": "Senior Clerk",
+      "website": "http://www.komisja.pl/",
+      "startDate": "2007-10-01",
+      "endDate": "2011-12-16",
+      "summary": "Besides of some clerical duties, I mostly played the role of chief PHP developer/designer and Senior Linux Administrator",
+      "highlights": [
+        "",
+        "",
+        "",
+        ""
+      ]
     }
+  ],
+  "additionalWork": [
   ],
   "workLabel": "",
   "additionalWorkLabel": "",
