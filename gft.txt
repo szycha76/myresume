@@ -1,0 +1,179 @@
+Profile:
+Marcin is a natural born problem solver. His vast experience with open source technologies makes it surprisingly easy to him; while his developer background can make him valuable member of virtually any Dev-Ops team.
+Qualifications:
+	BEng in Information Technology, Spoleczna Wyzsza Szkola Przedsiebiorczosci i Zarzadzania w Lodzi, (2012) 	
+	Angular 2 & Type Script, GFT Poland -- training, (2017) 	
+Key skills:
+Technical:
+Operating systems
+Operating systems:
+
+    Linux 5
+    z/OS 2
+    RedHat 4
+    SLES 4
+    CentOS 4
+    Windows 3
+    Slackware 5
+
+Languages:
+
+    COBOL 3
+    JCL 3
+    Python 3
+    Bash 3
+    PHP 4
+    Perl 2
+    HTML 5
+    JavaScript 3
+    SVG 2
+    Java EE 2
+    C 2
+    C++ 1
+    LaTeX 4
+    Postscript 1
+    Fortran 1
+    Lisp 1
+    JSON 4
+    XML/XSLT 1
+    VBA 3
+
+Frameworks:
+
+    AngularJS 3
+    jQuery 4
+    JQuery UI 3
+    Django 1
+    Buildroot 4
+    Drupal 1
+
+Libraries:
+
+Containers & Servers:
+
+    docker 4
+    KVM 3
+    QEMU 4
+    LXC 2
+    JBoss 3
+    Apache Tomcat 3
+    Apache HTTPd 5
+    lighttpd 3
+    Nginx 3
+    BIND 4
+    vsftpd 5
+    Novell GroupWise 3
+    Postfix 2
+    Sendmail 3
+    qmail 4
+    VMware 2
+    VirtualBox 4
+
+Databases:
+
+    MySQL 5
+    PostgreSQL 3
+    MSSQL 2
+    Oracle 2
+
+Testing:
+
+    JMeter 2
+
+Version Control Systems:
+
+    SVN 4
+    Git 3
+
+Project development and management tools:
+
+    Microsoft Project 2
+
+Methodologies:
+
+    ITIL V3 4
+
+Other:
+
+    Blockchain 4
+    ZFS 4
+    Data deduplication systems 4
+    Algorithms, data compression and encryption 3
+    Distributed File Systems 2
+
+Business:
+
+    Creative problem solving 4
+    Communication skills 4
+    French 3
+    Italian 2
+    Russian 2
+
+Resume:
+
+Step 1: Add a new work place
+
+Step 2: Add your projects to this place
+Added work places:
+05.2014 - now Senior Support Consultant at GFT
+
+Marcin has played a role of Support Lead in Source Support Team. He was responsible for establishing production and pre-production environment for Source Marketing Platform v.3.  Marcin's expertise with Linux operating system and his experience with web hosting helped with getting the most of the environment in shortest possible time.
+
+Project name:Source Marketing Platform v3
+Project description:
+Source is an asset manager and one of Europe's leading Exchange Traded Product (ETP) providers, with almost US$ 20 billion in assets under management, offering equity, fixed income, commodity and alternative market exposure.  Source Marketing Platform is informational website regarding products offered by Source, providing viewers with current and historical information about composition, performance, along with continuous intra-day quotes, etc.
+
+Source Marketing Platform v3 is complete application rewrite, with enhanced security, flexibility, ease of administration, and performance in mind.
+Technical responsibilities:
+
+    Establishing production and pre-production environments
+    Designing, testing and updating software release procedures
+    Documenting production and pre-production environments
+    Training team members and supervising releases of new versions of software
+    Proposing environment changes and improvements
+    Reporting bugs in software via ticketing system
+    Documenting, analysing and discussing with developers releases outcome
+    Providing developers with best technologies available in contemporary Linux & open source
+
+Technologies used:
+
+LinuxJBoss EAP 6.xJBoss A-MQApache HTTPdJavaPHPDrupalMySQLMemcachedJSONAnsiblePythonVarnishdocker
+03.2014 - now Owner at ADASTOR
+
+ADASTOR is privately owned company providing highly customized solutions for businesses with focus on lightweight virtualization technologies, enterprise backup, and cloud data storage.  Company provides as well general Linux consultancy and training.
+
+Project name:INSE IT support
+Project description:
+INSE (Polish: Instytut Nauk Społeczno-Ekonomicznych - Institute of Social and Economic Research) is a research institution, conducting wide ranging scientific research and advisory activities in Poland and abroad (incl. Ireland, Belgium and Austria) since 2007.
+
+They have prepared nearly 200 research reports on socio-economic issues, and carried out evaluation studies in over 50 projects. They created and manage over 50 websites, and have acquired financial resources to implement over 100 projects worth more than 25 million EUR, and employ nearly 60 people.
+Technical responsibilities:
+
+    Providing and supporting customized IT solutions
+    Advising on IT infrastructure investments
+    Providing 3rd line IT support
+
+Technologies used:
+
+Linux KVM Samba OpenVPN VNC Apache HTTP Server Python Django
+12.2011 - 04.2014 Application Engineer at Integrotech
+
+Integrotech is engineering company specialized in measuring gas and liquid flow media in industrial automation and technologies related with extraction and transporting of oil and gas.
+
+Marcin has been hired to help develop new gas flow computer, build from ground-up, utilizing open source software based on embedded Linux operating system. Moreover Marcin was responsible for keeping all company IT infrastructure up, running and growing, providing all levels of support to other team members. In his spare time he created web-based tools for electronic production division.
+
+Technologies used: Embedded Linux, Buildrootn Python, Django, PHP, MySQL, KVM, Qemu, SUSE Linux, Novell GroupWise, Novell e-Directory, LDAP, Samba, ZFS
+
+No records found.
+
+10.2007 - 12.2011 Senior Clerk at Okregowa Komisja Egzaminacyjna w Lodzi
+
+Okregowa Komisja Egzaminacyjna w Lodzi (District Examination Commission in Lodz) provides public services for educational institutions holding primary, secondary and high school examinations, as well as post-vocational school examinations. About 10 percent of Polish kids and youth pass their post-public school exams under supervision DEC in Lodz.
+
+All IT infrastructure backing Commission's services was Linux based. Marcin's expertise has been used to keep critical infrastructure up and running. He also supported Windows administrators team with daily tasks and fresh ideas.
+
+Marcin's analytical skills and process-modelling abilities as well as his web technologies proficiency have been exploited to create several web interfaces for Commission clients, that facilitate core processes to date. These interfaces allowed to save thousands work-hours since 2008 and reduce now-unnecessary paperwork.
+
+Besides of his IT-related activities, Marcin supervised some minor core processes in the company.
+
+Technologies used: Apache HTTP Server, PHP, MySQL, JavaScript, AJAX, jQuery, Linux, RedHat Linux, Oracle, PostgreSQL, BIND, Windows Server.

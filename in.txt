@@ -1,0 +1,359 @@
+
+Experience
+Add new position
+
+    Edit position Support Lead
+
+GFT Technologies
+Support Lead
+Company Name GFT Technologies
+Dates Employed Dec 2015 ? Present Employment Duration 2 yrs 8 mos
+
+My responsibilities include:
+- research, propose, and test cloud data migrarion, storage, and archiving
+  strategies (including AWS),
+- keep track of latest Open Source technologies, and propose inclusion to
+  projects,
+- provide direct support to developer team members regarding linux scripting,
+  networking, etc.,
+- deputize other support team members when needed.
+Edit position Owner
+AdaSTOR
+Owner
+Company Name AdaSTOR
+Dates Employed Mar 2014 ? Present Employment Duration 4 yrs 5 mos
+Location Lodz, Lodz District, Poland
+
+ADASTOR is privately owned company providing highly customized solutions for
+businesses with focus on lightweight virtualization technologies, enterprise
+backup, and cloud data storage. Company provides as well general Linux
+consultancy and training. Since it is my own company, my responsibilities
+include providing all of the above services to customers plus superior
+customer relationship management.
+Media (1)
+This position has 1 media
+
+    Bitcoin - a quick introduction to purely digital money
+    Bitcoin - a quick introduction to pur...
+    This media is a video
+
+Edit position System Administrator
+
+    Instytut Nauk Spo?eczno-Ekonomicznych Sp z o.o.
+    System Administrator
+    Company Name Instytut Nauk Spo?eczno-Ekonomicznych Sp z o.o.
+    Dates Employed Jul 2009 ? Present Employment Duration 9 yrs 1 mo
+    Location ?ód?, Poland
+
+    System administration: Linux servers, data backup solutions
+    Edit position Senior Support Consultant
+    GFT
+    Senior Support Consultant
+    Company Name GFT
+    Dates Employed Jan 2015 ? Dec 2015 Employment Duration 12 mos
+    Location Lodz, Lodz District, Poland
+
+    My responsibilities include:
+    - Establish production and pre-production environments
+    - Design, test and update software release procedures
+    - Document production and pre-production environments
+    - Train team members and supervise releases of new versions of software
+    - Suggest environment changes and improvements
+    - Report bugs in software via ticketing system
+    - Document, analyze and discuss with developers releases outcome
+    - Provide developers with best technologies available in contemporary
+      Linux & open source
+    Edit position Senior Support Consultant
+    Rule Financial (Part of the GFT Group)
+    Senior Support Consultant
+    Company Name Rule Financial (Part of the GFT Group)
+    Dates Employed May 2014 ? Dec 2014 Employment Duration 8 mos
+    Location Lodz, Lodz District, Poland
+    Edit position Application Engineer
+    Integrotech sp. z o.o.
+    Application Engineer
+    Company Name Integrotech sp. z o.o.
+    Dates Employed Dec 2011 ? Mar 2014 Employment Duration 2 yrs 4 mos
+    Location ?ód?, Poland
+
+    Maintained Novell Open Workgroup Suite system for the entire company,
+worked on embedded systems for industrial measurement and automation devices.
+    Edit position Senior Clerk / PHP developer / System Administrator
+    Okr?gowa Komisja Egzaminacyjna w ?odzi
+    Senior Clerk / PHP developer / System Administrator
+    Company Name Okr?gowa Komisja Egzaminacyjna w ?odzi
+    Dates Employed Oct 2007 ? Dec 2011 Employment Duration 4 yrs 3 mos
+    Location ?ód?, Poland
+
+    Designed, built, documented, tested and implemented several web-based
+systems to facilitate communication and data acquisition for District
+Examination Commission in ?ód?. These include public exams application system
+for 10% of Polish children (primary schools, junior high schools), examination
+absence managing system for all types of public exams etc.
+    Edit position Server Administrator
+    STORMmedia
+    Server Administrator
+    Company Name STORMmedia
+    Dates Employed 2008 ? 2010 Employment Duration 2 yrs
+    Location Lodz District, Zgierz County, Poland
+
+    STORMmedia provides Internet service for more than 1.000 households and
+companies near Aleksandrow Lodzki, Zgierz County, Poland. While with them, my
+responsibilities included maintaining Linux-based proxy servers and design and
+deploy middleware to integrate accounting system with routing and bandwidth
+shaping stack. Technologies used: netfilter, HTB, Squid, PHP.
+    Edit position System Administrator
+    7m Consulting s.c.
+    System Administrator
+    Company Name 7m Consulting s.c.
+    Dates Employed Mar 2008 ? Jun 2009 Employment Duration 1 yr 4 mos
+    Location ?ód?, Poland
+
+    Linux administration. Internal helpdesk. Hardware maintenance.
+    Edit position Network administrator, PHP developer
+    BLASTER.PL
+    Network administrator, PHP developer
+    Company Name BLASTER.PL
+    Dates Employed Nov 2003 ? Sep 2007 Employment Duration 3 yrs 11 mos
+
+    BLASTER.PL is a privately held IT company, focused on virtual hosting,
+Internet providing, and general IT consultancy & services. My responsibilities
+included maintaining web, mail and name servers, as well as web development,
+with focus on business logic coding, web standards compliance, quality
+assurance, and performance optimization. I also deployed several customized
+servers for external customers.
+    Edit position Network administrator
+    bmp.net.pl
+    Network administrator
+    Company Name bmp.net.pl
+    Dates Employed Aug 2002 ? Oct 2003 Employment Duration 1 yr 3 mos
+
+    My responsibilities included general servers maintenance and customer
+support.
+
+Education
+Add new education
+
+    Edit education Spo?eczna Wy?sza Szko?a Przedsi?biorczosci i Zarz?dzania w
+?odzi
+
+Spo?eczna Wy?sza Szko?a Przedsi?biorczosci i Zarz?dzania w ?odzi
+Spo?eczna Wy?sza Szko?a Przedsi?biorczosci i Zarz?dzania w ?odzi
+
+Degree Name Engineer's Degree
+
+Field Of Study Information Technology
+
+Grade Mainframe Systems
+
+Dates attended or expected graduation 2010 ? 2012
+Edit education Akademia Humanistyczno-Ekonomiczna w ?odzi
+Akademia Humanistyczno-Ekonomiczna w ?odzi
+Akademia Humanistyczno-Ekonomiczna w ?odzi
+
+Field Of Study Data Modeling/Warehousing and Database Administration
+
+Dates attended or expected graduation 2008 ? 2010
+Edit education Technical University of Lodz
+
+    Technical University of Lodz
+    Technical University of Lodz
+
+    Field Of Study Chemistry
+
+    Dates attended or expected graduation 1998 ? 2003
+
+    Activities and Societies: Ko?o Naukowe Chemików Wydzia?u Chemicznego P?
+
+Volunteer Experience
+Add new volunteer experience
+
+    Edit volunteer experience Board member
+    Local Residential Community
+    Board member
+    Company Name Local Residential Community
+    Dates volunteered Jun 2013 ? Jul 2017 Volunteer duration 4 yrs 2 mos
+    Cause Politics
+
+    Serving my local residential community as a member of the board - to
+mitigate day to day problems, help plan ahead new investments and increase
+quality of life in our area.
+
+Edit skills
+Add a new skill
+Skills & Endorsements
+
+    Creative Problem Solving
+    See 9 endorsements for Creative Problem Solving 9
+
+        Endorsed by 5 of Marcin?s colleagues at GFT Group
+
+    Outstanding interpersonal communication skills
+    See 5 endorsements for Outstanding interpersonal communication skills 5
+
+        Tomasz Czechowski and 4 connections have given endorsements for this
+skill
+
+    System Administration
+    See 29 endorsements for System Administration 29
+
+        Endorsed by Dominik Ma?owiecki, who is highly skilled at this
+
+        Endorsed by 9 of Marcin?s colleagues at GFT Group
+
+Industry Knowledge
+
+    System Design
+    See 5 endorsements for System Design 5
+
+Tools & Technologies
+
+    Linux
+    See 37 endorsements for Linux 37
+
+    Bash
+    See 6 endorsements for Bash 6
+
+    COBOL
+
+    JCL
+
+    HTML 5
+    See 3 endorsements for HTML 5 3
+
+    MySQL
+    See 20 endorsements for MySQL 20
+
+    PHP
+    See 28 endorsements for PHP 28
+
+    JavaScript
+    See 11 endorsements for JavaScript 11
+
+    Java
+    See 13 endorsements for Java 13
+
+    jQuery
+    See 3 endorsements for jQuery 3
+
+    Python
+    See 3 endorsements for Python 3
+
+    AJAX
+    See 2 endorsements for AJAX 2
+
+    Subversion
+    See 11 endorsements for Subversion 11
+
+    Java Enterprise Edition
+    See 2 endorsements for Java Enterprise Edition 2
+
+    PostgreSQL
+    See 14 endorsements for PostgreSQL 14
+
+    Microsoft SQL Server
+    See 4 endorsements for Microsoft SQL Server 4
+
+    Git
+    See 10 endorsements for Git 10
+
+    Django
+    See 1 endorsement for Django 1
+
+    BlockChain Technology
+    See 2 endorsements for BlockChain Technology 2
+
+    XML
+    See 14 endorsements for XML 14
+
+    Docker
+    See 1 endorsement for Docker 1
+
+    CSS
+    See 2 endorsements for CSS 2
+
+    SQL
+    See 1 endorsement for SQL 1
+
+Other Skills
+
+    High Sense Of Urgency
+    See 3 endorsements for High Sense Of Urgency 3
+
+    IBM Mainframe
+    See 1 endorsement for IBM Mainframe 1
+
+    ZFS
+    See 7 endorsements for ZFS 7
+
+    Deduplication
+    See 6 endorsements for Deduplication 6
+
+    Linux KVM
+    See 8 endorsements for Linux KVM 8
+
+    QEMU
+    See 3 endorsements for QEMU 3
+
+    Networking
+    See 9 endorsements for Networking 9
+
+    HTTP
+    See 3 endorsements for HTTP 3
+
+    Bitcoin
+    See 3 endorsements for Bitcoin 3
+
+    SMTP
+    See 2 endorsements for SMTP 2
+
+    SVG
+
+    CSS3
+    See 2 endorsements for CSS3 2
+
+    OpenVPN
+
+    JBoss EAP
+
+    Oracle Administration
+    See 2 endorsements for Oracle Administration 2
+
+    Trac
+    See 2 endorsements for Trac 2
+
+    Teaching Adults
+    See 1 endorsement for Teaching Adults 1
+
+    Transactional Systems
+
+    Varnish
+    See 1 endorsement for Varnish 1
+
+Edit Recommendation
+Ask for a recommendation
+Recommendations
+Received (2)
+Given (1)
+
+    Jakub Matusiak
+    Jakub Matusiak
+
+    at Jama-Tech
+
+    March 28, 2014, Jakub worked with Marcin but at different companies
+
+        Marcin is very creative person focused for finding best and fastest
+solution for problem solving. He is a good programer with very good knowllege
+about linux, networking and system configurations. His experience in open
+source projects is impressive. In my opinion Marcin is a partner worthy to
+command. 
+
+    Krzysztof Ozaist
+    Krzysztof Ozaist
+
+    Service Manager at Scorpio Sp. z o.o.
+
+    July 6, 2007, Krzysztof worked with Marcin in different groups
+
+        Excellent spec
